@@ -6,6 +6,11 @@ p {
     font-size: 18px;
 }
 
+.center-content {
+    color: blue;
+    text-align: right;
+}
+
 p.css-info {
     color: green;
 }
