@@ -1,0 +1,65 @@
+body {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+h1 {
+    background-color: steelblue;
+    border-style: solid;
+    border-color: black;
+    color: white;
+    padding: 10px;
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    margin-top: 0px;
+  }
+
+div.left-column{
+    float: left;
+    width: 60%;
+}
+div.float-me-right{
+    float: right;
+    width: 35%;
+}
+
+div.container{
+    margin-bottom: 20px;
+    padding: 0px 20px;
+}
+
+.container h2{
+    font-family: "Bebas Neue", sans-serif;
+}
+
+div.form-input {
+    margin-bottom: 10px;
+}
+
+img {
+    /* border: 10px; */
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+}
+  
+  .container {
+    border: 4px solid black;
+  }
+  
+  #companyValues {
+    background-color: maroon;
+    color: white;
+  }
+  
+  #aboutCompany {
+    background-color: yellow;
+  }
+  
+  #contactUs {
+    background-color: plum;
+  }
+  
+  #contactUs > h2 {
+    color: green;
+  }
